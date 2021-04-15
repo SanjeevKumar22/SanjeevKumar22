@@ -21,6 +21,7 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 
 
 [<img align="left" alt="Twitter" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/>](https://twitter.com/Sanjeev38809730)
+[<img align="left" alt="Linkdin" width="32" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A"/>](https://www.linkedin.com/in/sanjeev-kumar-7b97471a9/)
 
 
 <br />
