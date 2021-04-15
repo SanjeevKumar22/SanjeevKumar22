@@ -22,13 +22,15 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 
 [<img align="left" alt="Twitter" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/>](https://twitter.com/Sanjeev38809730)
 [<img align="left" alt="Linkdin" width="32" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A"/>](https://www.linkedin.com/in/sanjeev-kumar-7b97471a9/)
+[<img align="left" alt="Instagram" width="32" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg"/>](https://www.instagram.com/sanjeev_vikas/)
 
 
 <br />
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="C" width="32px" src="https://img.icons8.com/color/452/c-programming.png" />
+<img align="left" alt="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
