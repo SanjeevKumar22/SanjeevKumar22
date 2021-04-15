@@ -2,18 +2,18 @@
 
 ### Glad to see you here! &nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SanjeevKumar22)
 
-My interest lies in Web developer and Andriod developer. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
+My interest lies in Web developing and Andriod developing. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
 
-<img align="right" width="320" src="<img align="right" width="320" src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif]"" />
+<img align="right" width="320" src="<img align="right" width="320" src="https://raw.githubusercontent.com/Shreyashjiodndian2/Shreyashjiodndian2/main/developer.gif" />
 
 ### About Me:
 
-- 🔭 I’m currently working on Nodejs, Python, JavaScript
-- 🌱 I’m currently learning React Native and GraphQL
+- 🔭 I’m currently working on Nodejs,JavaScript
+- 🌱 I’m currently learning everything
 - 👨🏻‍💻 Most of my projects are available on Github
 - 💬 Ask me about anything. I am happy to help
-- 📫 How to reach me: shreyash.pandey.katni@gmail.com
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript
+- 📫 How to reach me: msanjeev.2000@gmail.com
+- ⚡ Fun fact: i can solve Rubik's cube in a minute
 
 ### Connect me with:
 
