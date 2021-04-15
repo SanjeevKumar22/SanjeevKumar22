@@ -4,7 +4,7 @@
 
 My interest lies in Web developing and Andriod developing. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
 
-<img align="right" width="320" src="<img align="right" width="320" src="https://raw.githubusercontent.com/Shreyashjiodndian2/Shreyashjiodndian2/main/developer.gif" />
+<img align="right" width="320" src="<img align="right" width="320" src="https://github.com/SanjeevKumar22/SanjeevKumar22/blob/main/giphy.gif" />
 
 ### About Me:
 
@@ -13,13 +13,10 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 - 👨🏻‍💻 Most of my projects are available on Github
 - 💬 Ask me about anything. I am happy to help
 - 📫 How to reach me: msanjeev.2000@gmail.com
-- ⚡ Fun fact: i can solve Rubik's cube in a minute
+- ⚡ Fun fact: I can solve Rubik's cube in a minute
 
 ### Connect me with:
 
-[<img align="left" alt="Twitter | Divyanshu Sahu" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shreyas77704045)
-[<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shreyash-pandey-27a592176/)
-[<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jaankkyakroge/)
 
 <br />
 <br />
@@ -47,5 +44,3 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 
 ---
 
-
-[![Shreyash's Github Stats](https://github-readme-stats.vercel.app/api?username=shreyashjiodndian2&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
