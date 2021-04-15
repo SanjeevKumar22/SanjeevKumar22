@@ -5,6 +5,7 @@
 My interest lies in Web developing and Andriod developing. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
 
 <img align="right" width="320" src="https://github.com/SanjeevKumar22/SanjeevKumar22/blob/main/giphy.gif"/>
+![counter](![counter](https://pipedream.com/@sanjuvikas12/global-error-workflow-p_6lCyo1p/edit)
 
 
 
@@ -51,4 +52,6 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 <br />
 
 ---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SanjeevKumar22)
 
