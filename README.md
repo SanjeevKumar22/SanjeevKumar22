@@ -5,7 +5,7 @@
 My interest lies in Web developing and Andriod developing. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
 
 
-[<img align="left" alt="Twitter" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/>](https://twitter.com/Sanjeev38809730))
+[<img align="left" alt="Twitter" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/>](https://twitter.com/Sanjeev38809730)
 
 ### About Me:
 
