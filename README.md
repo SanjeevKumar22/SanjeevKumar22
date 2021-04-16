@@ -51,6 +51,10 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 <br />
 
 ---
+<details>
+	<summary>:zap: Github Stats</summary>
+	<img align="left" alt="Prajwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&theme=buefy&hide=stars" />
+</details>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SanjeevKumar22)
+
 
