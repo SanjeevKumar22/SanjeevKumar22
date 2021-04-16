@@ -44,7 +44,7 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 <img align="left" alt="R" width="32px" src="https://www.r-project.org/logo/Rlogo.svg">
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Bootstrap" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBootstrap_(front-end_framework)&psig=AOvVaw3xPJW2hteq41mvo0YUwqWW&ust=1618664653826000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjliPDpgvACFQAAAAAdAAAAABAD" />
 
 
 <br />
