@@ -27,6 +27,11 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 
 <br />
 <br />
+<p align="center" style="display: inline">
+<img src="https://img.shields.io/github/followers/SanjeevKumar22?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/SanjeevKumar22?style=for-the-badge">
+
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/452/c-programming.png" />
