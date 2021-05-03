@@ -58,7 +58,12 @@ My interest lies in Web developing and Andriod developing. I am a B.E graduate i
 ---
 <details>
 	<summary>:zap: Github Stats</summary>
-	<img align="left" alt="Prajwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&theme=buefy&hide=stars" />
+	<!--<img align="left" alt="Sanjeev Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&theme=buefy&hide=stars" />-->
+	
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="amritakesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevKumar22&" alt="amritakesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjeevKumar22&show_icons=true&locale=en&layout=compact" alt="amritakesh" /></p>
 </details>
 
 
