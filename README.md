@@ -53,13 +53,12 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="Wordpress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
 
 
-
-<br />
+<br/>
+<br/>
 
 ---
 <details>
 	<summary>:zap: Github Stats</summary>
-	<!--<img align="left" alt="Sanjeev Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&theme=buefy&hide=stars" />-->
 	
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev>
 
