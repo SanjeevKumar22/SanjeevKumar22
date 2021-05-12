@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SanjeevKumar22)
 
-My interest lies in Web developing and Andriod developing. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
+My interest lies in Web developing and Android developing. I am a B.E graduate in Computer Science from the Bangalore Institute of Technology. I am a member of SDI (a group of programming enthusiasts from Bangalore Institute of Technology).During my free time, I love to travel and explore new things.
 
 <img align="right" width="400" src="https://github.com/SanjeevKumar22/SanjeevKumar22/blob/main/giphy (2).webp"/>
 
