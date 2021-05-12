@@ -40,7 +40,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -50,7 +50,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Wordpress" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
-<img align="left" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
+<img align="rigth" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
 
 <br />
 <br />
