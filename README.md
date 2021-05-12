@@ -54,7 +54,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <br />
 <br />
 
-
+---
 <details>
 	<summary>:zap: Github Stats</summary>
 	
