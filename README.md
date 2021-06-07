@@ -72,5 +72,6 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevKumar22&)" alt="Sanjeev Kumar" />
 </p>
 
-[![Sanjeev Kumar github activity graph](https://activity-graph.herokuapp.com/graph?username=SanjeevKumar22)](https://github.com/SanjeevKumar22/github-readme-activity-graph)
+[![Sanjeev Kumar github activity graph](https://activity-graph.herokuapp.com/graph?username=SanjeevKumar22)][![[Sanjeev Kumar github activity graph](https://activity-graph.herokuapp.com/graph?username=SanjeevKumar22&theme=react-dark)]
+(https://github.com/SanjeevKumar22/github-readme-activity-graph)
 
