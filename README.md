@@ -61,7 +61,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <details>
 	<summary>:zap: Github Stats</summary>
 	
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevKumar22&" alt="Sanjeev"/p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjeevKumar22&show_icons=true&locale=en&layout=compact" alt="Sanjeev"/></p>
