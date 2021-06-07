@@ -52,7 +52,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="Wordpress" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
 
 
-<img align="right" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
+<img align="left" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
 
 <br />
 <br />
