@@ -61,14 +61,14 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <details>
 	<summary>:zap: Github Stats</summary>
 	
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev/></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevKumar22&" alt="Sanjeev"/p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevKumar22&" alt="Sanjeev"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjeevKumar22&show_icons=true&locale=en&layout=compact" alt="Sanjeev"/></p>
+
+</details>
 <h2 align="left">Git-Hub Streak !! :fire:</h2> 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevKumar22&)" alt="Sanjeev Kumar"/></p>
-</details>
-
 
 
 [![Sanjeev Kumar github activity graph](https://activity-graph.herokuapp.com/graph?username=SanjeevKumar22&theme=react-dark)](https://github.com/SanjeevKumar22/github-readme-activity-graph)
