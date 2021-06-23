@@ -37,7 +37,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/452/c-programming.png" />
 <img align="left" alt="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="java" width="25px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -45,7 +45,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Andriod" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="R" width="32px" src="https://www.r-project.org/logo/Rlogo.svg">
 <img align="left" alt="GitHub" width="32px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -53,6 +53,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
 <img align="left" alt="jQuery" width="32px" src="https://miro.medium.com/max/1600/0*g3ns8QALNBBH7CBA."/>
 <img align="left" alt="Php" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
+<img align="left" alt="ReactJs" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 <br />
 <br />
 
