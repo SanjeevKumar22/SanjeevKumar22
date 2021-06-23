@@ -47,7 +47,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="R" width="32px" src="https://www.r-project.org/logo/Rlogo.svg">
-<img align="left" alt="GitHub" width="32px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Mark.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&tbnid=Kq4l3mSBVj08zM&vet=12ahUKEwiQ5fSO9a3xAhWJZSsKHbW1DjIQMygAegUIARDOAQ..i&docid=H8p6HHzcTglWAM&w=560&h=560&q=github%20logo&ved=2ahUKEwiQ5fSO9a3xAhWJZSsKHbW1DjIQMygAegUIARDOAQ" />
+<img align="left" alt="GitHub" width="32px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Wordpress" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
 <img align="left" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
