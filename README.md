@@ -57,7 +57,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 
 ---
 <details>
-	<summary>:zap: Github Stats</summary>
+	<summary>:zap: <h4>Github Stats</h4></summary>
 	
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev/></p>
 
