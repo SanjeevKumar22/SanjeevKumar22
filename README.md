@@ -52,12 +52,13 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="Wordpress" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
 <img align="left" alt="Bootstrap" width="32px" src="https://lh5.googleusercontent.com/proxy/Q1o3zfycZvjPt7xxBrRegbVysIMTbh-TyOObjp2EW5NC2M2u2dhWL9sAJuXO3iqm-w0MrvvVsCy1UxLrPVVlO5eGin-la4LKX9uNAlii=s0-d" />
 <img align="left" alt="jQuery" width="32px" src="https://miro.medium.com/max/1600/0*g3ns8QALNBBH7CBA."/>
+<img align="left" alt="Php" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
 <br />
 <br />
 
 ---
 <details>
-	<summary>:zap: <h4>Github Stats</h4></summary>
+	<summary>:zap:Github Stats</summary>
 	
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SanjeevKumar22&show_icons=true&locale=en" alt="sanjeev/></p>
 
