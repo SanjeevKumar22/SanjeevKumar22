@@ -54,6 +54,7 @@ My interest lies in Web developing and Android developing. I am a B.E graduate i
 <img align="left" alt="jQuery" width="32px" src="https://miro.medium.com/max/1600/0*g3ns8QALNBBH7CBA."/>
 <img align="left" alt="Php" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
 <img align="left" alt="ReactJs" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+<img align="left" alt="opencv" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png"/>
 <br />
 <br />
 
